@@ -1,0 +1,27 @@
+{
+    "block-full_corner-*": "Emoldurado (Canto Inteiro)",
+    "block-gable-*": "Emoldurado (Empena)",
+    "block-gable1m-*": "Emoldurado (Empena 1M)",
+    "block-half_inside_corner-*": "Emoldurado (7/8 Bloco)",
+    "block-inside_corner-*": "Framed (Inside Corner)",
+    "block-pyramid-*": "Emoldurado (Pirâmide)",
+    "block-pyramid1m-*": "Emoldurado (Pirâmide 1M)",
+    "block-ramp_corner_filler-*": "Emoldurado (Preenchimento do Canto da Rampa)",
+    "block-ramp_corner-*": "Emoldurado (Canto da Rampa)",
+    "block-ramp-*": "Emoldurado (Rampa)",
+    "block-wedge_full_corner_bottom-*": "Emoldurado (Cunha Inferior do Canto Completo)",
+    "block-wedge_steep_corner_base-*": "Emoldurado (Cunha Base do Canto Ingreme)",
+    "block-wedge_steep_corner_top-*": "Emoldurado (Cunha Topo do Canto Ingreme)",
+    "block-wedge_tip-*": "Emoldurado (Ponta de Cunha)",
+    "block-wedge-*": "Emoldurado (Cunha)",
+
+    "blockhelp-addBlock": "Adicionar Bloco",
+    "blockhelp-removeBlock": "Remover Bloco",
+    "heldhelp-selectshape": "Selecionar forma",
+
+    "handbooktitle-placeholder": "Obter",
+    "handbooktext-placeholder": "<a href=\"handbook://block-carps:ramp-up-south\">aqui</a>",
+
+    "game:tabname-carps": "Carpenter's Story",
+    "format-pastelgreen": "<font color=\"#b4ecb4\">{0}</font>" // pastel green
+}
